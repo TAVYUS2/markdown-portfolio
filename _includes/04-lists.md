@@ -1,4 +1,4 @@
-*Green 
-*my wife
-*myself 
-*my kids 
+* Green 
+* my wife
+* myself 
+* my kids 
